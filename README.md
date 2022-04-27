@@ -20,7 +20,7 @@ this is my study repository for implementing some data structures using python.
 
 
 ## Running the tests
-In order to run the unit tests, simply run:
+In order to test, simply run:
 
 ```shell
 pip install -r requirements.txt
